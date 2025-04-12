@@ -1,0 +1,6 @@
+setup.py
+data_structures_package.egg-info/PKG-INFO
+data_structures_package.egg-info/SOURCES.txt
+data_structures_package.egg-info/dependency_links.txt
+data_structures_package.egg-info/top_level.txt
+examples/__init__.py
