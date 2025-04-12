@@ -1,1 +1,23 @@
-site_name: My Docs
+site_name: Data Structures Documentation
+
+nav:
+  - Home: index.md
+  - Data Structures:
+      - Arrays: arrays.md
+      - Linked Lists: linked_lists.md
+      - Queue: queue.md
+      - Stack: stack.md
+      - Tree: tree.md
+  - Examples:
+      - Array Test: examples/array_test.ipynb
+      - Array Visualization: examples/array_visualization.ipynb
+      - Linked List Test: examples/linkedlist_test.ipynb
+      - Linked List Visualization: examples/linkedlist_visualization.ipynb
+      - Queue Test: examples/queue_test.ipynb
+      - Queue Visualization: examples/queue_visualization.ipynb
+      - Stack Test: examples/stack_test.ipynb
+      - Stack Visualization: examples/stack_visualization.ipynb
+      - Tree Test: examples/tree_test.ipynb
+      - Tree Visualization: examples/tree_visualization.ipynb
+
+# Add more sections as needed
